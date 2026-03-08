@@ -73,3 +73,12 @@ main{
 #directions-title{
   padding-bottom: 100px;
 }
+.li1::before{
+  content: '1)';
+}
+.li2::before{
+  content: '2)';
+}
+.li3::before{
+  content: '3)'
+}
